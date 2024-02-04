@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagmire&label=Profile%20views&color=0e75b6&style=flat" alt="yagmire" /> </p>
 
-- 🔭 I’m currently working on **NAAI** <u>(private as of now)</u>
+- 🔭 I’m currently working on **NAAI** <ins>(private as of now)</ins>
 
 - 🌱 I’m currently learning **Python, Java, Rust**
 
