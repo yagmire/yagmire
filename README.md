@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NAAI** <ins>(private as of now)</ins>
 
-- 🌱 I’m currently learning **Python, Java, Rust**
+- 🌱 I’m currently learning **Python, Rust**
 
 - 📫 How to reach me **yagmire on Discord**
 
