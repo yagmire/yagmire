@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yagmire&label=Profile%20views&color=0e75b6&style=flat" alt="yagmire" /> </p>
 
-- 🔭 I’m currently working on **AIM Rewritten** <ins>(private as of now)</ins>
+- 🔭 I’m currently working on **AIM Rewritten**
+  <sub><sup>Private right now, will go public when ready. (soon!)</sup></sub>
 
 - 🌱 I’m currently learning **Rust**
 
