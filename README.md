@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm yagmire</h1>
+<h1 align="center">Hi 👋, I'm </h1> ![yagmire](https://img.shields.io/badge/yagmire!-8A2BE2)
 
 - 🔭 I’m currently working on **AIM Rewritten**<br>
   <sub><sup>Private right now, will go public when ready. (soon!)</sup></sub>
