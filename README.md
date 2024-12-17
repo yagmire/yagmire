@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm yagmire</h1> 
 
-- 🔭 I’m currently working on **AIM Rewritten**<br>
-  <sub><sup>Private right now, will go public when ready. (soon!)</sup></sub>
+- 🔭 I’m currently working on (Gamble App)[https://gambleapp.mogging.org/]
 
 - 🌱 I’m currently learning **Rust**
 
