@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on **[Gamble App](https://gambleapp.mogging.org/)**
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Flutter**
 
 - ✨ I currently know **Python, C#, HTML, PHP, CSS, Java**
 
