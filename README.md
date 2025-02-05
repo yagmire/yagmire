@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm yagmire</h1> 
 
-- 🔭 I’m currently working on **[Gamble App](https://gambleapp.mogging.org/)**
+- 🔭 I’m currently working on **[Noble/Jhon](https://mogging.org/noble), an (to-be) open-source application distribution platform.**
 
 - 🌱 I’m currently learning **Flutter**
 
-- ✨ I currently know **Python, C#, HTML, PHP, CSS, Java**
+- ✨ I currently know **Python, HTML, CSS, Java, Dart/Flutter**
 
 - 📫 How to reach me **yagmire on Discord**
 
