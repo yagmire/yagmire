@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm yagmire</h1> 
 
-- 🔭 I’m currently working on **[Noble/Jhon](https://mogging.org/noble), an (to-be) open-source and customizable application distribution platform.**
+- 🔭 I’m currently working on **[Noble/Buckets](https://mogging.org/), an (to-be) open-source and customizable application distribution platform.**
 
 - 🌱 I’m currently learning **Flutter**
 
