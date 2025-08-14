@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm yagmire</h1> 
 
-- 🔭 I’m currently working on **[Noble/Buckets](https://mogging.org/), an (to-be) open-source and customizable application distribution and management platform.**
+- 🔭 I’m currently working on **[UrSpace](https://urspace.org/), a soon to be public sign-up, nostalgic social media.**
 
 - 🌱 I’m currently learning **Flutter**
 
-- ✨ I currently know **Python, HTML, CSS, Java, Dart/Flutter**
+- ✨ I currently know **Python, HTML, CSS, JavaScript, Java, Dart/Flutter, NodeJS**
 
 - 📫 How to reach me **yagmire on Discord**
 
